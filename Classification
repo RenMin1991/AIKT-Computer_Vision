@@ -1,0 +1,24 @@
+Classification
+  Basic Model
+    Lenet-5
+    Alexnet
+    VGGNet
+    GoogleNet
+    Resnet
+    DenseNet
+    SENet
+  Fine-Grained Classification  
+    BCNN：Bilinear CNN Models for Fine-grained Visual Recognition
+  Metric Learning
+    Distance metric learning a comprehensive survey
+    Supervised Metric Learning 
+      Information-theoretic metric learning
+      Distance metric learning for large margin nearest neighbor classification
+      Learning the parts of objects by non-negative matrix factorization
+      Neighbourhood components analysis
+      Metric Learning by Collapsing Classes
+    Unsupervised Metric Learning 
+      Distance metric learning with application to clustering with side-information
+  Few-shot learning
+  Multi-Label Classification
+  Video Classification
